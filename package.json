@@ -1,0 +1,14 @@
+{
+  "name": "desafio-01-fundamentos-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "csv": "^6.2.7",
+    "csv-parse": "^5.3.5"
+  }
+}
